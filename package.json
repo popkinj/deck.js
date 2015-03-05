@@ -1,0 +1,22 @@
+{
+  "name": "deck-js",
+  "version": "1.0.0",
+  "description": "Modern HTML Presentations",
+  "main": "core/deck.core.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imakewebthings/deck.js.git"
+  },
+  "author": "Caleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imakewebthings/deck.js/issues"
+  },
+  "homepage": "https://github.com/imakewebthings/deck.js"
+}
